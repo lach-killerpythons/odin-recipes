@@ -1,0 +1,29 @@
+* {
+    line-height: 1.5;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    border-radius: 8px;
+    width: 400px;
+    height: 400px;
+}
+
+ul {
+    list-style:circle;
+}
+
+h1 {
+    color:#f59b42;
+}
+
+/* 
+
+//1. Set the image width to 200px
+// 2. Set the list style of <ul> to none
+// 3. Add a dark red color to the <h1>
+
+*/
