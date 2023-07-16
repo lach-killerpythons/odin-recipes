@@ -4,7 +4,9 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #2392fa;
 }
+
 
 img {
     border-radius: 8px;
@@ -17,7 +19,12 @@ ul {
 }
 
 h1 {
-    color:#f59b42;
+    color:#bac3d9;
+    font-family: 'Tektur', cursive;
+}
+
+.recipe-links{
+    color:#bac3d9;
 }
 
 /* 
