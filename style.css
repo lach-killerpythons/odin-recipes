@@ -19,12 +19,19 @@ ul {
 }
 
 h1 {
-    color:#bac3d9;
+    color:lawngreen;
     font-family: 'Tektur', cursive;
 }
 
+.bio-box{
+    text-align: center;
+    
+}
+
 .recipe-links{
-    color:#bac3d9;
+    color:lawngreen;
+    border: 3px solid green;
+    
 }
 
 /* 
